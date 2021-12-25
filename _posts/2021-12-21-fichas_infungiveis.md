@@ -6,4 +6,4 @@ category: criptoactivos
 layout: post
 ---
 
-tyrtyhfgyhfghfghfghfbhfhf
+Pelo nome do título procuramos representar o que comumente s procura fazer através do uso da expressão *Non-Fungible Tokens*.
