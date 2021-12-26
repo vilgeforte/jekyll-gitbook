@@ -30,11 +30,6 @@ Pelo nome do t√≠tulo procuramos representar o que comumente se referencia atrav√
 
 
 
-```yaml
-toc:
-    enabled: true
-```
-
 Bibliografia
 -------------
 
