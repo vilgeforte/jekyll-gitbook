@@ -1,6 +1,6 @@
 ---
 title: fichas infungíveis
-author: orlando furioso
+author: anónimo
 date: 2021-12-25
 category: criptoactivos
 layout: post
